@@ -1,5 +1,5 @@
 # RGB-Game
-An Arduino game of "Simon Says" with an RGB LED "Simon" and a joystick to for inputs. Also uses a passive buzzer for noises/tones, buttons to start and stop the game, and an LCD Display to keep score and display the current color. 
+An Arduino game of "Simon Says" with an RGB LED "Simon" and a joystick for inputs. Also uses a passive buzzer for noises/tones, buttons to start and stop the game, and an LCD Display to keep score and display the current color. 
 
 ## VERSION 1.0
 Initial build of the game.
